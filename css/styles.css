@@ -1,0 +1,9 @@
+body{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    background-color: cornsilk;
+}
+img{
+    display: block;
+    width: 250px;
+    margin: 10px;
+}
